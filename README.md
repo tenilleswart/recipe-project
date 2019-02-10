@@ -1,3 +1,4 @@
-# user story
-[link to user story] (https://bit.ly/2UPFmmX)
+# User story
+
+[link to user story](https://bit.ly/2UPFmmX)
 
